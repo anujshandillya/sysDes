@@ -1,0 +1,52 @@
+.cache/
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# IDE files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.ncb
+*.suo
+*.opensdf
+*.sdf
+.vscode/
+.idea/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*~
+*.swp
+*.tmp
